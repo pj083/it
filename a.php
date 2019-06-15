@@ -1,5 +1,4 @@
 <?php
-echo 'hello world';
-echo 'rrrpppppppppppppppppppppppppppppppppppppppppp';
+echo '不要没事找事';
 
 ?>
