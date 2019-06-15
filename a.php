@@ -1,5 +1,5 @@
 <?php
-echo 'hello world';
-echo 'rrrpppppppppppppppppppppppppppppppppppppppppp';
+echo '我是麻烦制造者';
+
 
 ?>
