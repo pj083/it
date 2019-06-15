@@ -1,1 +1,4 @@
-fge
+<?php
+echo 'pj';
+
+?>
